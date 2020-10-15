@@ -2,6 +2,8 @@
 
 Instrutores: João Victor
 
+Plataforma: Alura
+
 Link para o curso: https://www.alura.com.br/curso-online-java-novidades-novos-recursos
 
 ## Importante

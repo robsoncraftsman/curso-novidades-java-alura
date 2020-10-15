@@ -1,4 +1,4 @@
-package com.robsoncraftsman.novidades.java13;
+package com.robsoncraftsman.alura.java.novidades.java13;
 
 /**
  * Exemplo usando TextBlocks - Java 13

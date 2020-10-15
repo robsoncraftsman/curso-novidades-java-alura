@@ -1,4 +1,4 @@
-package com.robsoncraftsman.novidades.java10;
+package com.robsoncraftsman.alura.java.novidades.java10;
 
 import java.util.ArrayList;
 import java.util.List;
