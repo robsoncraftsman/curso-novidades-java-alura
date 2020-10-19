@@ -1,4 +1,4 @@
-package com.robsoncraftsman.alura.java.novidades.java9;
+package com.robsoncraftsman.alura.novidades.java9;
 
 import java.util.LinkedList;
 import java.util.List;

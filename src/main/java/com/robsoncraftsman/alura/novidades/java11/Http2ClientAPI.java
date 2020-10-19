@@ -1,4 +1,4 @@
-package com.robsoncraftsman.alura.java.novidades.java11;
+package com.robsoncraftsman.alura.novidades.java11;
 
 import java.io.IOException;
 import java.net.URI;

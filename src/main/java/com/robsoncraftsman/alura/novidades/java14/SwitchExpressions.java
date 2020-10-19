@@ -1,4 +1,4 @@
-package com.robsoncraftsman.alura.java.novidades.java14;
+package com.robsoncraftsman.alura.novidades.java14;
 
 /**
  * Switch Expressions - Java 14
